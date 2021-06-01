@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Nicht jeder kann vegan werden
+title: Nicht jeder kann vegan werden
 categories: [Antivegane Argumente]
-excerpt: Es kann nicht jeder vegan (oder vegetarisch) leben, denn: Für manche Menschen bzw. in manchen Gebieten ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten. Dort würde ein Verzicht auch keine Ackerflächen für den Anbau von Gemüse und Co. freigeben.
+excerpt: Für manche Menschen bzw. in manchen Gebieten ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten.
 ---
 
 # Einleitung 
