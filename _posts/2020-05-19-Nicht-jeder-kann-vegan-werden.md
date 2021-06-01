@@ -75,8 +75,9 @@ Um diesen letzten Punkt adressieren zu können, müssen wir uns die Definition d
 > „\[Der Veganismus\] ist eine Philosophie und eine Lebensweise, die danach strebt, alle Formen der Ausbeutung von und Grausamkeiten gegenüber Tieren – sei es für die Ernährung, für Kleidung oder für irgendeinen anderen Zweck – so weit wie möglich und praktisch durchführbar zu vermeiden. Darüber hinaus fördert er zum Vorteil von Mensch, Tier und Umwelt die Entwicklung und Nutzung tierfreier Alternativen. Auf die Ernährung bezogen bezeichnet er die Praxis, auf alle Produkte zu verzichten, die ganz oder teilweise von Tieren stammen.“
 
 Ich möchte zwei Abschnitte herausheben, um euch auf etwas aufmerksam zu machen:
-„\[…\] eine Lebensweise, die danach strebt \[…\] so weit wie möglich und praktisch durchführbar zu vermeiden \[…\]“
-„Auf die Ernährung bezogen bezeichnet er die Praxis, auf alle Produkte zu verzichten, die ganz oder teilweise von Tieren stammen.“
+* „\[…\] eine Lebensweise, die danach strebt \[…\] so weit wie möglich und praktisch durchführbar zu vermeiden \[…\]“
+* „Auf die Ernährung bezogen bezeichnet er die Praxis, auf alle Produkte zu verzichten, die ganz oder teilweise von Tieren stammen.“
+
 Bevor ihr weiterlest: Bitte schaut, ob euch etwas auffällt.
 
 Die beiden Aussagen sind nicht miteinander vereinbar. Als sich die Vegan Society auf diese Definition festgelegt hat, hatte sie anscheinend schlicht nicht auf dem Schirm, dass es für manche Menschen eben eine Sterbensweise und keine „Lebensweise“ wäre, auf alles Tierische zu verzichten. Der letzte Satz der Definition ist also aufgrund des Selbstwiderspruchs zu streichen. Es bleibt:
