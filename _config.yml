@@ -12,7 +12,7 @@ author: Tierethik & Veganismus
 description: Tierethik-Zitate von Dichtern & Denkern | Aufklärung über typische Irrtümer | Aufklärung über Tierethik & Veganismus
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: /images/reverie.png
+avatar: /images/Avatar.png
 
 #
 # Flags below are optional
@@ -25,7 +25,7 @@ footer-links:
   facebook:
   flickr:
   github: 
-  instagram: @tierethik_veganismus_zitate
+  instagram: https://www.instagram.com/tierethik_veganismus_zitate/
   linkedin: 
   pinterest:
   rss: rss
