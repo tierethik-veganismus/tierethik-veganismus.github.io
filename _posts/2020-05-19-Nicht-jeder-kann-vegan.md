@@ -82,6 +82,7 @@ Bevor ihr weiterlest: Bitte schaut, ob euch etwas auffällt.
 Die beiden Aussagen sind nicht miteinander vereinbar. Als sich die Vegan Society auf diese Definition festgelegt hat, hatte sie anscheinend schlicht nicht auf dem Schirm, dass es für manche Menschen eben eine Sterbensweise und keine „Lebensweise“ wäre, auf alles Tierische zu verzichten. Der letzte Satz der Definition ist also aufgrund des Selbstwiderspruchs zu streichen. Es bleibt:
 
 „\[…\] eine Lebensweise, die danach strebt \[…\] so weit wie möglich und praktisch durchführbar zu vermeiden \[…\]“
+
 {% include pullquote.html quote="Es ist daher per Definition **unmöglich**, dass nicht alle Menschen vegan leben können." %} Da eine vegane Lebensweise nur so weit vermeidet, wie es eben mit dem Leben vereinbar ist, sind diejenigen, die **wirklich** nicht anders können, nur dazu verpflichtet, ihre Tiernutzung auf das absolute Minimum zu beschränken und sie so schonend wie nur irgendwie möglich zu gestalten.
 
 Daraus folgt, dass die Nutzungen zu wählen sind, die mit den wenigsten und harmlosesten Interessenverletzungen einhergehen.
