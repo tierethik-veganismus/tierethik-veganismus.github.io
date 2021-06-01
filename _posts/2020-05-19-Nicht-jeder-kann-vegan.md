@@ -2,8 +2,7 @@
 layout: post
 title:  Nicht jeder kann vegan werden
 categories: [Antivegane Argumente]
-excerpt: Das zweite antivegane Argument, das ich mit euch durchgehen möchte, fasse ich mal so zusammen, dass es sich von selbst in drei Punkte zerlegen lässt:
-Es kann nicht jeder vegan (oder vegetarisch) leben, denn: Für manche Menschen bzw. in manchen Gebieten ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten. Dort würde ein Verzicht auch keine Ackerflächen für den Anbau von Gemüse und Co. freigeben. 
+excerpt: Das zweite antivegane Argument, das ich mit euch durchgehen möchte, fasse ich mal so zusammen, dass es sich von selbst in drei Punkte zerlegen lässt: Es kann nicht jeder vegan (oder vegetarisch) leben, denn: Für manche Menschen bzw. in manchen Gebieten ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten. Dort würde ein Verzicht auch keine Ackerflächen für den Anbau von Gemüse und Co. freigeben. 
 ---
 
 # Einleitung 
@@ -59,12 +58,12 @@ Wir verfüttern gegenwärtig durchschnittlich 3kg für uns essbare Nahrung für 
 Wir verschwenden viele brauchbare Flächen für vollkommen unnötigen Mist wie Schnittblumen oder nährstoffarme Getränke. Wir verfüttern Unmengen an unsere Haustiere. Usw usf.
 Was ich sagen möchte: Wenn wir wirklich wollen, bekommen wir diese Welt schon satt, selbst wenn manche Flächen der Natur zurückgegeben werden müssen. Und selbst wenn die aktuelle Bevölkerung so nicht zu ernähren wäre: Es wäre unsere Pflicht, unsere Anzahl dann durch freiwillige Geburtenkontrolle zu vermindern.
 
+![Welthungerhilfe - Ziegen gegen Hunger](/images/l017.jpg)
+
 Ich habe dieses Beispiel schon einmal genutzt, aber ich möchte es euch nochmal zeigen, weil es mir wichtig ist. **Bitte** versucht nicht, diesen Einwand grundsätzlich in Frage zu stellen.
 Da Tiere mit uns nicht automatisch in Nahrungskonkurrenz stehen, also Kalorien nutzbar machen können, die uns sonst nicht zur Verfügung stehen würden, ist es **unmöglich**, dass der Veganismus die beste Option für die Welternährung ist. Entscheidend ist einzig und allein, dass es reicht.
 
 Bitte gehört nicht zu den Veganern, die durch Unwissenheit diese abstoßende Form der Arroganz an den Tag legen: Sind die Ärmsten der Armen wirklich nur zu blöd, zu verstehen, dass sie die Tiere einfach nur abschaffen müssten, um viel mehr Kalorien für sich zu haben? Die Menschen, die seit Jahrhunderten so überleben – sind die nur zu doof? {% include pullquote.html quote="Und die Veganer, die in der Regel keine Ahnung von den Gegebenheiten und von der Landwirtschaft haben, wissen es besser?" %}
-
-![Welthungerhilfe - Ziegen gegen Hunger](/images/l017.jpg)
 
 **Warum** gibt die Welthungerhilfe den Ärmsten der Armen Ziegen? Damit sie noch mehr hungern? Es ist himmelschreiende Arroganz!
 
