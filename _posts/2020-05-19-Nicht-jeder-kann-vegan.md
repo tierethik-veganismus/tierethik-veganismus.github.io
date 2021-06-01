@@ -2,7 +2,7 @@
 layout: post
 title:  Nicht jeder kann vegan werden
 categories: [Antivegane Argumente]
-excerpt: Das zweite antivegane Argument, das ich mit euch durchgehen möchte, fasse ich mal so zusammen, dass es sich von selbst in drei Punkte zerlegen lässt: Es kann nicht jeder vegan (oder vegetarisch) leben, denn: Für manche Menschen bzw. in manchen Gebieten ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten. Dort würde ein Verzicht auch keine Ackerflächen für den Anbau von Gemüse und Co. freigeben. 
+excerpt: Es kann nicht jeder vegan (oder vegetarisch) leben, denn: Für manche Menschen bzw. in manchen Gebieten ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten. Dort würde ein Verzicht auch keine Ackerflächen für den Anbau von Gemüse und Co. freigeben.
 ---
 
 # Einleitung 
@@ -10,10 +10,10 @@ excerpt: Das zweite antivegane Argument, das ich mit euch durchgehen möchte, fa
 Das zweite antivegane Argument, das ich mit euch durchgehen möchte, fasse ich mal so zusammen, dass es sich von selbst in drei Punkte zerlegen lässt:
 Es kann nicht jeder vegan (oder vegetarisch) leben, denn: Für manche Menschen bzw. in manchen Gebieten ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten. Dort würde ein Verzicht auch keine Ackerflächen für den Anbau von Gemüse und Co. freigeben.
 
-Zerlegen wir diesen Einwand in die drei Teile:
-1.) Für manche Menschen ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten.
-2.) Die Einstellung der Tierhaltung gibt nicht automatisch Flächen für den Anbau von Pflanzen frei.
-3.) Es kann nicht jeder vegan (oder vegetarisch) leben.
+Zerlegen wir diesen Einwand in die drei Teile:  
+1. Für manche Menschen ist es nicht möglich, auf alle tierischen Lebensmittel zu verzichten.
+2. Die Einstellung der Tierhaltung gibt nicht automatisch Flächen für den Anbau von Pflanzen frei.
+3. Es kann nicht jeder vegan (oder vegetarisch) leben.
 
 # Die Gegenargumente
 
@@ -63,7 +63,7 @@ Was ich sagen möchte: Wenn wir wirklich wollen, bekommen wir diese Welt schon s
 Ich habe dieses Beispiel schon einmal genutzt, aber ich möchte es euch nochmal zeigen, weil es mir wichtig ist. **Bitte** versucht nicht, diesen Einwand grundsätzlich in Frage zu stellen.
 Da Tiere mit uns nicht automatisch in Nahrungskonkurrenz stehen, also Kalorien nutzbar machen können, die uns sonst nicht zur Verfügung stehen würden, ist es **unmöglich**, dass der Veganismus die beste Option für die Welternährung ist. Entscheidend ist einzig und allein, dass es reicht.
 
-Bitte gehört nicht zu den Veganern, die durch Unwissenheit diese abstoßende Form der Arroganz an den Tag legen: Sind die Ärmsten der Armen wirklich nur zu blöd, zu verstehen, dass sie die Tiere einfach nur abschaffen müssten, um viel mehr Kalorien für sich zu haben? Die Menschen, die seit Jahrhunderten so überleben – sind die nur zu doof? {% include pullquote.html quote="Und die Veganer, die in der Regel keine Ahnung von den Gegebenheiten und von der Landwirtschaft haben, wissen es besser?" %}
+Bitte gehört nicht zu den Veganern, die durch Unwissenheit diese abstoßende Form der Arroganz an den Tag legen: Sind die Ärmsten der Armen wirklich nur zu blöd, zu verstehen, dass sie die Tiere einfach nur abschaffen müssten, um viel mehr Kalorien für sich zu haben? Die Menschen, die seit Jahrhunderten so überleben – sind die nur zu doof? Und die Veganer, die in der Regel keine Ahnung von den Gegebenheiten und von der Landwirtschaft haben, wissen es besser?
 
 **Warum** gibt die Welthungerhilfe den Ärmsten der Armen Ziegen? Damit sie noch mehr hungern? Es ist himmelschreiende Arroganz!
 
@@ -82,7 +82,7 @@ Bevor ihr weiterlest: Bitte schaut, ob euch etwas auffällt.
 Die beiden Aussagen sind nicht miteinander vereinbar. Als sich die Vegan Society auf diese Definition festgelegt hat, hatte sie anscheinend schlicht nicht auf dem Schirm, dass es für manche Menschen eben eine Sterbensweise und keine „Lebensweise“ wäre, auf alles Tierische zu verzichten. Der letzte Satz der Definition ist also aufgrund des Selbstwiderspruchs zu streichen. Es bleibt:
 
 „\[…\] eine Lebensweise, die danach strebt \[…\] so weit wie möglich und praktisch durchführbar zu vermeiden \[…\]“
-Es ist daher per Definition **unmöglich**, dass nicht alle Menschen vegan leben können. Da eine vegane Lebensweise nur so weit vermeidet, wie es eben mit dem Leben vereinbar ist, sind diejenigen, die **wirklich** nicht anders können, nur dazu verpflichtet, ihre Tiernutzung auf das absolute Minimum zu beschränken und sie so schonend wie nur irgendwie möglich zu gestalten.
+{% include pullquote.html quote="Es ist daher per Definition **unmöglich**, dass nicht alle Menschen vegan leben können." %} Da eine vegane Lebensweise nur so weit vermeidet, wie es eben mit dem Leben vereinbar ist, sind diejenigen, die **wirklich** nicht anders können, nur dazu verpflichtet, ihre Tiernutzung auf das absolute Minimum zu beschränken und sie so schonend wie nur irgendwie möglich zu gestalten.
 
 Daraus folgt, dass die Nutzungen zu wählen sind, die mit den wenigsten und harmlosesten Interessenverletzungen einhergehen.
 Der Einwand, dass eine vegane Welt praktisch unmöglich ist, offenbart also ein Missverständnis dessen, was der Veganismus als ein Minimalrahmen für Gerechtigkeit gegenüber Tieren überhaupt fordert.
