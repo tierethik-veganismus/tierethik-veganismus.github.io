@@ -22,7 +22,7 @@ Es sind 4 Punkte entscheidend:
 3. Grausamkeit: Grausamkeit ist das gezielte Schaden-Wollen, ist das intentionale Zufügen von Schmerzen usw.
 4. So weit wie möglich …: Es geht darum, das absolute Ausbeutungsminimum anzustreben. Da der Veganismus eine LEBENS- und keine STERBENSweise ist, verbietet er folglich nicht automatisch jede Tiernutzung (wenn z.B. sonst kein Überleben möglich wäre).
 
-Das heißt: Wenn jemand aus Versehen auf einen Käfer tritt, ist das nichts, was den Veganismus irgendwie berühren würde. Es ist bedauerlich, aber nicht, worum es geht. Wenn so etwas passiert, war weder Ausbeutung (ungerechte Nutzung) noch Grausamkeit (Schaden-Wollen) im Spiel.
+Das heißt: Wenn jemand aus Versehen auf einen Käfer tritt, ist das nichts, was den Veganismus irgendwie berühren würde. Es ist bedauerlich, aber nicht das, worum es geht. Wenn so etwas passiert, war weder Ausbeutung (ungerechte Nutzung) noch Grausamkeit (Schaden-Wollen) im Spiel.
 Man müsste jetzt lange darüber reden, was sich ethisch aus den eingeräumten Spielräumen ergibt, aber in diese Untiefen müssen wir uns heute nicht begeben.
 
 # Die Argumentation
