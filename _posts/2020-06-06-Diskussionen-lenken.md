@@ -31,6 +31,6 @@ Da wir also im Humanbereich die Ethik voranstellen: Warum soll ausgerechnet hier
 
 An dieser Stelle ist nun meines Erachtens jeder Fluchtweg versperrt. Das Gegenüber kann nur zwei Dinge tun:
 1. Es kann sich bereitwillig darauf einlassen, zuerst die Frage nach der Ethik zu klären. In diesem Fall bietet mein Story-Highlight „Warum vegan?“ Hilfestellungen.
-2. Es kann behaupten, dass das bei Tieren etwas Anderes sei oder dass Tiere ihm/ihr ethisch einfach egal seien. In diesem Fall helfen das Story-Highlight „Warum vegan?“ und das Story-Highlight „Antiveganes 3“ weiter.
+2. Es kann behaupten, dass das bei Tieren etwas Anderes sei oder dass Tiere ihm/ihr ethisch einfach egal seien. In diesem Fall helfen das Story-Highlight „Warum vegan?“ und der Artikel [„Mir sind Tiere egal“](/Mir-sind-Tiere-egal) weiter.
 
 Meiner Erfahrung nach lässt sich mit dem Verweis auf unsere Praxis im Humanbereich der Fokus auf die ethische Betrachtung erreichen. Ob es Reaktion 1 oder 2 ist, spielt dabei keine große Rolle. Man ist in beiden Fällen voll auf Linie und hat ein stabiles Fundament, um weitere Entgleisungsversuche abzuwehren, bis es legitim erscheint, andere Themen aufzugreifen.
