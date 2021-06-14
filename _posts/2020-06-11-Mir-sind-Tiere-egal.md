@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mir sind Tiere egal!
+title: „Mir sind Tiere egal!“
 categories: [Antivegane Argumente]
 excerpt: Was kann man tun, wenn jemand einfach nur gleichgültig zu sein scheint?
 ---
