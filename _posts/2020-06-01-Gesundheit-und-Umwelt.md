@@ -103,7 +103,7 @@ Solange Veganerinnen und Veganer nicht wollen, dass es gesellschaftlich akzeptie
 ### 3.) Das Umweltargument ethisch betrachtet
 Das Umweltargument behauptet, dass die Tierausbeutung aus Umweltgründen zu unterlassen sei. Daraus folgt, wenn man nur diese Perspektive einnimmt: Dort, wo die Tierausbeutung besser für die Umwelt ist, ist sie auch kein Problem. (Mehr dazu bei 4.))
 
-Da wir keine Menschen ausbeuten, bloß weil es besser für die Umwelt ist, und da es kein überzeugendes Argument dafür gibt, Tiere grundsätzlich anders als Menschen zu behandeln, ist es auch unstatthaft, Tiere auszubeuten, wenn es besser für die Umwelt ist. (Siehe zur Erklärung dazu mein Story-Highlight „Warum vegan?“.)
+Da wir keine Menschen ausbeuten, bloß weil es besser für die Umwelt ist, und da es kein überzeugendes Argument dafür gibt, Tiere grundsätzlich anders als Menschen zu behandeln, ist es auch unstatthaft, Tiere auszubeuten, wenn es besser für die Umwelt ist. (Siehe zur Erklärung dazu meinem Artikel [„Warum vegan?“](/Warum-vegan).)
 Das heißt: Auch das Umweltargument marginalisiert die Tiere, es macht sie zu Opfern zweiter Klasse. Auch ‚Umweltveganer‘ transportieren die Botschaft, dass Tiere so wenig wert sind, dass bei ihnen statthaft wäre, was bei Menschen als abstoßend empfunden wird.
 
 ### 4.) Das Umweltargument naturwissenschaftlich betrachtet

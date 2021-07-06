@@ -68,7 +68,7 @@ Das ist etwas, das ihr bei sehr, sehr vielen antiveganen Einwänden tun könnt �
 In der Praxis wird nun fast immer das passieren: Euer Gegenüber wird sagen, dass die gewählten Beispiele etwas völlig Anderes seien. Dass man das nicht vergleichen könne!
 
 Das ist der Moment, in dem ihr fragt, warum die Logik im Humanbereich nicht greifen soll, während sie akzeptabel sei, wenn es um Tiere geht.
-Wie ihr hier verfahren könnt, ist in meinem Storyhighlight „Warum vegan?“ beschrieben. Dort findet ihr Hilfe, wie ihr ab hier leichtes Spiel habt.
+Wie ihr hier verfahren könnt, ist in meinem Artikel [„Warum vegan?“](/Warum-vegan) beschrieben. Dort findet ihr Hilfe, wie ihr ab hier leichtes Spiel habt.
 Eine zweite Option:
 
 Es ist immer eine Option, aufzuzeigen, warum die Logik hinter einem Einwand nicht belastbar ist, aber es gibt noch eine Alternative: Es funktioniert oft sehr gut, das Gegenüber gedanklich in die Lage des Opfers zu versetzen. Die Aussage war:

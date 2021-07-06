@@ -48,7 +48,7 @@ Die erste Frage, die ihr stellen könnt, ließe sich zum Beispiel so formulieren
 Die Antwort wird erwartungsgemäß eine eindeutige Verneinung sein. Es stellt sich folglich die Frage, warum Gleichgültigkeit in einem Kontext ausreichen soll, aber in einem anderen nicht.
 
 An dieser Stelle sind dann 2 Erwiderungen zu erwarten:  
-a) Es wird sich darauf berufen, dass das bei Menschen etwas anderes sei. Wie ihr auf diesen Versuch reagieren könnt, habe ich euch in meinem Story-Highlight „Warum vegan“ gezeigt. Bitte dort nachlesen.  
+a) Es wird sich darauf berufen, dass das bei Menschen etwas anderes sei. Wie ihr auf diesen Versuch reagieren könnt, habe ich euch in meinen Artikel [„Warum vegan?“](/Warum-vegan) gezeigt. Bitte dort nachlesen.  
 b) Die Person beruft sich auf das Recht bzw. auf gesellschaftlich geltende Normen.
 
 Lasst euch von b) nicht überrumpeln, denn auch b) ist leicht zu entkräften. Wenn geltendes Recht oder wenn gesellschaftliche Gepflogenheiten schon an sich ausreichen würden, dürfte sich nicht aufzeigen lassen, dass Gesellschaften und Gesetze fürchterlich irren können.
@@ -72,11 +72,11 @@ Was würden wir davon halten, wenn sie unsere Ausbeutung mit den Argumenten rech
 Käme uns da der Verweis auf die Artzugehörigkeit fair vor? Würden wir den Intelligenzunterschied für einen ausreichenden Grund halten? Usw.
 Beide Gedankenexperimente zielen schlicht darauf ab, das Gegenüber dazu zu bringen, sich vorzustellen, wie es ist, wenn man am kürzeren Hebel sitzt, wenn man in der unterlegenen Position und von der Fairness anderer abhängig ist. 
 
-Das Ergebnis wird sein, dass euer Gegenüber zahlreiche ethisch irrelevante Unterschiede benennen wird, die auch in meinem Story-Highlight „Warum vegan“ schon teilweise adressiert sind. 
+Das Ergebnis wird sein, dass euer Gegenüber zahlreiche ethisch irrelevante Unterschiede benennen wird, die auch in meinem Artikel [„Warum vegan?“](/Warum-vegan) schon teilweise adressiert sind. 
 Die Unterschiede, die sie anführen werden, werden dazu geeignet sein, Rassismus oder Sexismus zu rechtfertigen, sie werden unbemerkt behinderten- und kleinkinderfeindlich sein, sie werden ungewollt die Geltung der allgemeinen Menschenrechte kassieren, sie werden zirkulär sein usw. Es wird nichts Haltbares kommen.
 
 Ich kann an dieser Stelle nicht alle Unterscheidungsversuche aufzählen, die einem in der Praxis begegnen werden. Ihr könnt sie aber alle alleine adressieren, wenn ihr euch immer zwei Fragen stellt:
-Knackt der benannte Unterschied das „Argument der menschlichen Grenzfälle“? (Siehe dazu mein Story-Highlight „Warum vegan“.)
+Knackt der benannte Unterschied das „Argument der menschlichen Grenzfälle“? (Siehe dazu meinen Artikel [„Warum vegan?“](/Warum-vegan).)
 Würden wir den Unterschied für bedeutsam halten, wenn wir das Opfer wären?
 
 Solltet ihr hingegen das Glück haben, herauskitzeln zu können, dass euer Gegenüber zumindest Gefühle für ein Tier oder eine Tierart hat, könnt ihr versuchen, den fast immer aufwühlenden Mensch-Tier-Vergleich zu vermeiden. Fragt diese Personen, warum mit den ‚Nutztieren‘ in Ordnung sein soll, was mit dem geliebten Tier oder mit der als schützenswert erachteten Art nicht in Ordnung wäre. Auch hier werden keine ethisch belastbaren Argumente kommen.
