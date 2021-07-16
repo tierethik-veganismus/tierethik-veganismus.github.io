@@ -50,7 +50,7 @@ Es ließen sich daher folgende Argumente für den Freeganismus, fürs Containern
 Der Konsum tierischer Lebensmittel, die für den Müll bestimmt waren, könnte insofern sogar im Interesse von Tieren sein, da so prinzipiell eine Reduktion des Anbauumfangs möglich wäre. 
 Darüber hinaus lässt sich noch ein weiterer ethisch relevanter Vorteil nennen: Die Rettung von Lebensmitteln, die für den Müll bestimmt waren, schont die Brieftasche, sodass sich neue Spielräume dafür ergeben, für gute Zwecke zu spenden.
 
-## 3.) Ethische Bedenken
+## 3. Ethische Bedenken
 Einige der Vorteile, die zuvor aufgelistet wurden, lassen sich jedoch kritisch hinterfragen. Anders formuliert: Es kann bezweifelt werden, dass diesbezüglich gegenwärtig ein Nutzen entsteht.
 Dieser Zweifel wäre jedoch irrelevant, wenn sich keine ethischen Bedenken formulieren lassen. Sollte die ‚Rettung‘ von für den Müll bestimmten Lebensmitteln in einigen Bereichen gegenwärtig keinen nennenswerten Nutzen haben, so würde sie doch zumindest nicht schaden.
 
@@ -103,7 +103,7 @@ Man könnte jetzt noch darüber spekulieren, ob es für die konsumierenden Vegan
 Und das ist auch der Grund, warum diese Diskussionen in der Regel so unfruchtbar sind. Es gibt nichts Handfestes – und es prallen einfach nur zwei Welten unversöhnlich aufeinander: entweder hält man den Nutzen für ausreichend oder man hält den Schaden des aufrechterhaltenen Bildes, des wahrgenommenen Doppelstandards (zum Beispiel den unterschiedlichen Umgang mit Tier- und Menschenleichen) für entscheidend.
 Es erscheint daher sinnvoll einfach beide Seiten zu beleuchten, um Raum für eine ausgewogenere, selbstkritische Betrachtung zu öffnen.
 
-## 4.) Spielt das Lebensmittel eine Rolle?
+## 4. Spielt das Lebensmittel eine Rolle?
 Es könnte natürlich auch noch die Frage gestellt werden, ob es nicht einen Unterschied macht, ob man ‚nur‘ für den Müll bestimmte Milch- und Eierprodukte oder ob man auch Fleischwaren konsumiert.
 Betrachtet man, wie diese Lebensmittel in der Allgemeinbevölkerung wahrgenommen werden, ließe sich der Standpunkt vertreten, dass Veganer weniger Irritation hervorrufen, wenn sie sich auf vegetarische Lebensmittel beschränken.
 
@@ -116,7 +116,7 @@ Es gibt meines Erachtens keine plausible Grundlage dafür, hier einen Unterschie
 Natürlich ließe sich ein ethischer Unterschied benennen: Es gibt theoretisch die Möglichkeit, Milch und Eier auf eine harmlose Weise zu gewinnen. So muss der Konsum von Eiern, in einem winzigen Umfang, keineswegs mit einer schlechten Behandlung der Tiere einhergehen.
 Solche Milch- und Eierwaren werden jedoch nicht kommerziell angeboten, sodass sie auch nicht aus Containern gefischt werden können. Es gibt fernab des Ekels vor Fleisch keinen Grund, hier beim ‚Tonnentauchen‘ einen Unterschied zu machen.
 
-## 5.) Zusammenfassung.
+## 5. Zusammenfassung.
 Die angestellte Betrachtung sollte verdeutlicht haben, dass die ‚Rettung‘ von Lebensmitteln prinzipiell mit ethisch relevanten Vorteilen verbunden ist. In welchem Umfang sie tatsächlich existieren, ist jedoch auch davon abhängig, in welchem Umfang Containern und Co. stattfinden. Es sollte jedoch nicht vergessen werden, dass es legitime kritische Rückfragen gibt, die denkbare Imageschäden und Glaubwürdigkeitsverluste betreffen.
 
 Es ist jedoch nicht möglich, Nutzen und Schaden ins Verhältnis zu setzen, da keine Forschung zu diesem Thema existiert. Die Frage, wie man welche Aspekte gewichtet, wird hochgradig individuelle Antworten hervorrufen.
