@@ -28,7 +28,7 @@ Heute nicht nur ein Zitat, sondern eine kleine Zitatsammlung von Karl Julius Web
 **Karl Julius Weber** (1767 - 1832)
 Quelle: Karl Julius Weber, Demokritos oder Hinterlassene Papiere eines lachenden Philosophen, hrsg. von Karl Martin Schiller, Leipzig 1927, Band 11.
 
-# Erläuterungen
+# Über den Autor
 
 Karl Julius Weber war ein deutscher Schriftsteller, der heute am ehesten noch als Satiriker bekannt ist. Weber verbrachte bereits seine frühen Jugendtage in einem großen Umfang mit dem Studium unzähliger Bücher aus den unterschiedlichsten Bereichen (z.B. Geschichte und Geographie) und in verschiedenen Sprachen – eine Leidenschaft, die auch seine Gymnasial- und Universitätszeit (Rechtswissenschaft) prägte, sodass Weber schon vor dem Eintritt in die Arbeitswelt, als 23-Jähriger, unter anderem mit der deutschen Philosophie und Dichtung sowie mit den englischen und französischen Klassikern vertraut war. Seine Bibliothek umfasste am Ende beinahe 11.000 Bände, aus denen er stets für seine eigenen Werke schöpfte.
 Nachdem sich sein Plan, ein akademisches Lehramt wahrzunehmen, nicht verwirklichen ließ, wurde Weber zunächst Privatlehrer und dann Privatsekretär des Grafen Christian von Erbach-Schönberg. Seine damit beginnende Laufbahn im Staatsdienst endete jedoch nach einigen Jahren im Verdruss und führte dazu, dass sich Weber als noch nicht einmal 40-jähriger Mann verdüstert zurückzog und nur nochmal von 1820-1824 das Oberamt Künzelsau im ersten Landtag des Königreiches Württemberg vertrat.
