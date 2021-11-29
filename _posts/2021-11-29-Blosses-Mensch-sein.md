@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spezieszugehörigkeit als Ausweg aus den „menschlichen Grenzfälle“
+title: Spezieszugehörigkeit als Antwort auf das Argument der "menschlichen Grenzfälle"
 categories: [Antivegane Argumente]
 excerpt: "Ich hatte mich am Wochenende ausführlicher mit dem Argument der „menschlichen Grenzfälle“ beschäftigt. Dieses Argument fragt nach der ethisch relevanten Eigenschaft, die Menschen generell von anderen Tieren trennt, sodass eine grundsätzliche Andersbehandlung von Menschen statthaft wäre. Ich bekam mehrere Rückmeldungen, dass es immer wieder vorkommt, dass das bloße Mensch-Sein, also die Spezieszugehörgkeit, vom Gegenüber als befriedigende Auflösung wahrgenommen wird. Eine Antwort, mit der sich anscheinend viele in der veganen Szene schwertun, also gehen wir diesen klassischen antiveganen Einwand mal kurz durch."
 
@@ -48,5 +48,5 @@ Der Mensch ist das Ergebnis einer langen Evolution mit vielen Zwischenschritten.
 ![Schädel unserer Vorfahren im Stammbaum](/images/Vorfahren.jpg) 
 (Dieser Ansatz geht auf den Youtuber „Vegan Footsoldier“ zurück.)
 
-# Fazit 
+# Anmerkung zur Praxis 
 Es ist nicht pauschal möglich, anzugeben, welcher dieser Ansätze in der Praxis am besten funktionieren wird. Die hier gewählte Reihenfolge spiegelt also keine Effektivität oder persönliche Präferenz wider. Es ist ratsam, von Fall zu Fall zu unterscheiden, auf welche Option man zurückgreifen möchte. In manchen Situationen wird es ohnehin darauf hinauslaufen, dass man gleich 2 oder 3 Ansätze versuchen muss, bevor es möglich ist, diese unstatthafte Auflösung einvernehmlich zu verwerfen. Und natürlich gibt es viel zu viele Fälle, in denen nichts funktioniert, weil keine Bereitschaft vorhanden ist, das eigene Handeln zu hinterfragen.
