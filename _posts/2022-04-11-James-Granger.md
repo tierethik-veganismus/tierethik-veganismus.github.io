@@ -66,7 +66,7 @@ _Quelle: James Granger, An Apology for the Brute Creation, or Abuse of Animals c
 
 * "Kein umsichtiger Mensch": Im Original das doppeldeutige „man“ (Mensch/Mann).
 
-* "„Selig“, spricht unser Heiland": Siehe: Die Bergpredigt, Matthäus 5,7.
+* "‚Selig‘, spricht unser Heiland": Siehe: Die Bergpredigt, Matthäus 5,7.
 
 # Über den Autor
 
