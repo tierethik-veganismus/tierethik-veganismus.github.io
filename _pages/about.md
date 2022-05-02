@@ -14,4 +14,7 @@ Ihr findet mich auch auf [youtube](https://www.youtube.com/c/TierethikundVeganis
 - Aufklärung über typische Irrtümer 
 - Aufklärung über Tierethik & Veganismus
 
+## Support
 
+Wer meine Arbeit unterstützen und mir bei den Recherche-Kosten (Bücher etc.) helfen will:  
+ * tierethik\_veganismus (ät) gmx.de (PayPal)
