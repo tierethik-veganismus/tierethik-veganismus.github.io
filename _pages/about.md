@@ -6,7 +6,7 @@ permalink: /about/
 
 Der Blog von [Tierethik & Veganismus](https://tierethik-veganismus.github.io/).
 
-Ihr findet mich auch auf [youtube](https://www.youtube.com/c/TierethikundVeganismus) und [Instagram](https://www.instagram.com/tierethik_veganismus_zitate/)
+Ihr findet mich auch auf [youtube](https://www.youtube.com/c/TierethikundVeganismus) und [Instagram](https://www.instagram.com/tierethik_veganismus/)
 
 ## Hier findet ihr
 
