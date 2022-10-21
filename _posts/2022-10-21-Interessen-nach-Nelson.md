@@ -2,7 +2,7 @@
 layout: post
 title: Interessen nach Leonard Nelson
 categories: [Ethische Argumente]
-excerpt: "Im Zentrum dieses Videos stehen die Ausführungen des frühen Tierrechtlers Leonard Nelson und ein Begriff, der in den letzten Jahren eine steile Karriere erlebt hat und zu einem festen Bestandteil, zu einem Schlüsselbegriff der Tierethik geworden ist: Es soll um den Begriff Interesse bzw. Präferenz gehen."
+excerpt: "Im Zentrum dieses Artikels stehen die Ausführungen des frühen Tierrechtlers Leonard Nelson und ein Begriff, der in den letzten Jahren eine steile Karriere erlebt hat und zu einem festen Bestandteil, zu einem Schlüsselbegriff der Tierethik geworden ist: Es soll um den Begriff Interesse bzw. Präferenz gehen."
 
 ---
 
@@ -11,7 +11,7 @@ des Vereins [selbst-kritisch-vegan](http://selbst-kritisch-vegan.de/) gehalten w
 
 # Einleitung
 
-Im Zentrum dieses Videos stehen die Ausführungen des frühen Tierrechtlers Leonard Nelson und ein
+Im Zentrum dieses Artikels stehen die Ausführungen des frühen Tierrechtlers Leonard Nelson und ein
 Begriff, der in den letzten Jahren eine steile Karriere erlebt hat und zu einem festen Bestandteil, zu
 einem Schlüsselbegriff der Tierethik geworden ist: Es soll um den Begriff Interesse bzw. Präferenz
 gehen.
@@ -184,7 +184,7 @@ nicht. Wir gewinnen hier offensichtlich auch keinen robusten Startpunkt für ein
 # Interessen nach Leonard Nelson
 
 Nach dieser etwas länglichen Einleitung, die uns als Kontrast für die folgenden Betrachtungen dient,
-können wir uns nun dem zentralen Thema des Videos widmen: Leonard Nelson bzw. Leonard
+können wir uns nun dem zentralen Thema des Artikels widmen: Leonard Nelson bzw. Leonard
 Nelsons Interessenansatz. Wir kommen also auf die bisher aufgeführten Punkte noch einmal zurück.
 
 Leonard Nelson war ein deutscher Philosoph, der von 1882 bis 1927 lebte und trotz seines frühen
