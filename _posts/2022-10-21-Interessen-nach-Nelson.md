@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interessen nach Leonard Nelson
+title: Der Begriff Interesse und die Tierethik Leonard Nelsons.
 categories: [Ethische Argumente]
 excerpt: "Im Zentrum dieses Artikels stehen die Ausführungen des frühen Tierrechtlers Leonard Nelson und ein Begriff, der in den letzten Jahren eine steile Karriere erlebt hat und zu einem festen Bestandteil, zu einem Schlüsselbegriff der Tierethik geworden ist: Es soll um den Begriff Interesse bzw. Präferenz gehen."
 
@@ -88,7 +88,7 @@ zugesprochen wird:
 
 ![Interessen-nach-Handbuch-Tierethik](/images/nelson-interessen/407.jpg)
 
-# Interessen nach Peter Singer
+# Peter Singer
 
 Peter Singer dürfte es auch gewesen sein, der den größten Einfluss auf die Karriere des Interessen-
 bzw. Präferenzbegriffs hatte. Er wird als der bedeutsamste Vertreter des Präferenzutilitarismus
@@ -181,7 +181,7 @@ Der Haken ist nicht schwer zu erkennen: Wir wissen zum Beispiel sehr genau, wie 
 anatomisch aufgebaut sind – und doch haben wir keine Ahnung, ob sie empfinden können oder
 nicht. Wir gewinnen hier offensichtlich auch keinen robusten Startpunkt für eine Ethik
 
-# Interessen nach Leonard Nelson
+# Leonard Nelson
 
 Nach dieser etwas länglichen Einleitung, die uns als Kontrast für die folgenden Betrachtungen dient,
 können wir uns nun dem zentralen Thema des Artikels widmen: Leonard Nelson bzw. Leonard
@@ -233,7 +233,7 @@ Interessen, sie haben also Rechte.“
 
 Wir sehen, dass Nelson laut Urs Müller Interessen an die Empfindungsfähigkeit, an Lust und Schmerz
 gebunden hätte. Die genaue Lektüre wird gleich zeigen, dass dies nicht in dieser Form der Fall ist.
-Das zweite Beispiel ist [ein Vortrag von Dieter Birnbacher](https://www.youtube.com/watch?v=ybL10Xlv7mk), also von einem der bekanntesten Ethiker
+Das zweite Beispiel ist [ein Vortrag von Dieter Birnbacher (Schlüsselstelle 21:12 bis 22:59)](https://youtu.be/ybL10Xlv7mk?t=1272), also von einem der bekanntesten Ethiker
 Deutschlands.
 
 Birnbacher behauptet also, dass man bei Nelson selbst einen solchen Gedankengang finden könnte:
