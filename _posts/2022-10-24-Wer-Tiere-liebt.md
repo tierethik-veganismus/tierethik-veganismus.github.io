@@ -9,11 +9,10 @@ excerpt: "Im April dieses Jahres erschien in der Süddeutschen Zeitung ein Artik
 # 1. Vorbemerkungen
 
 Im April dieses Jahres erschien in der Süddeutschen Zeitung ein Artikel, der aufgrund seines provokativen, ja vielleicht absurd anmutenden Charakters die Gemüter erhitzte, unglaubliche Verbreitung fand und dutzende Antworten nach sich zog. 
-
 Der Titel mag ein ausreichender Hinweis darauf sein, warum: „Wer Tiere liebt, sollte sie essen“ \[[^1]\].
+
 Der Artikel fand im August noch einmal unerwartete Aufmerksamkeit, als der aufrufstarke Podcast von Markus Lanz und Richard David Precht das Thema Tierwohl aufgriff \[[^2]\].
 Lanz versuchte in dieser Episode wiederholt, Precht zu einer Reaktion auf das Problem zu bewegen, das von dem Artikel aufgeworfen wurde. 
-
 Prechts Verweigerungshaltung, etwas Anderes als eine ausweichende Antwort zu geben, stand symbolisch für die allgemeinen Reaktionen auf den Artikel, sodass die Autorin in einem Nachtrag beklagte, dass ihr eigentlicher Punkt weitestgehend unbeachtet blieb \[[^3]\]. Bedauerlicherweise schob auch die Replik, die diesen Fehler nicht beging, der Autorin Christina Berndt etwas unter, wozu sie sich überhaupt nicht bekannt hatte. (\[[^4]\], vgl. dort den Abschnitt „Gesetze und die Würde des Menschen und der Tiere“)
 
 Um der von der Autorin erhobenen Klage, dass ihre Position nicht angemessen wiedergegeben und behandelt worden sei, den Boden zu entziehen, wird die folgende Analyse den Text Abschnitt für Abschnitt chronologisch besprechen; die Autorin wird also, in ihrem Interesse, nicht paraphrasiert, und es werden nicht nur Ausschnitte aus dem Gesamttext herausgerissen und analysiert. Cherry-Picking- und Verzerrungsvorwürfe erübrigen sich, da sie stets selbst zu Wort kommt; es ist stets direkt möglich, zu sehen, ob ihr etwas in den Mund gelegt wurde.
