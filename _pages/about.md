@@ -4,7 +4,7 @@ title: Über mich
 permalink: /about/
 ---
 
-Der Blog von [Tierethik & Veganismus](https://tierethik-veganismus.github.io/).
+Der Blog von [Tierethik & Veganismus](https://www.tierethik-veganismus.de/).
 
 Ihr findet mich auch auf [youtube](https://www.youtube.com/c/TierethikundVeganismus) und [Instagram](https://www.instagram.com/tierethik_veganismus/)
 
