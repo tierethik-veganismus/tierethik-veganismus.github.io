@@ -52,7 +52,7 @@ _Bedürfnisse_ sind die Interessen, deren Befriedigung überlebensnotwendig ist.
 
 Da wir im Normalfall ohne Tierisches auskommen, kann der Verzehr von Tierischem bei uns im Normalfall auch nur ein Begehren darstellen. Die Haltung von Tieren führt jedoch zwangsweise früher oder später dazu, dass Bedürfnisse, zum Beispiel durch Krankheiten, verletzt werden. Es müsste also ein echtes Bedürfnis beim Menschen vorliegen, um die Haltung von Kühen oder Hühnern zu rechtfertigen. Dies ist, wie gesagt, üblicherweise nicht der Fall. 
 
-6.) Es ist vollkommen unklar, warum aus der Handlung, Leben zu schenken, der Freibrief folgen sollte, Leben zu nehmen. Es folgt logisch schlicht nicht. Und: Ergibt sich aus dem Erzeugen eines Lebewesens nicht viel eher Verantwortung statt eine Ausbeutungserlaubnis? Letztlich ließe sich diese Logik auch auf unsere Kinder anwenden, denn schließlich wären sie ohne uns gar nicht da. Ein Freibrief, sie nach Belieben auch wieder zu töten? 
+6.) Es ist vollkommen unklar, warum aus der Handlung, Leben zu schenken, der Freibrief folgen sollte, Leben zu nehmen. Es folgt logisch schlicht nicht. Und: Ergibt sich aus dem Erzeugen eines Lebewesens nicht viel eher Verantwortung statt eine Ausbeutungserlaubnis? Letztlich ließe sich diese Logik auch auf unsere Kinder oder auf unsere Haustiere anwenden, denn schließlich wären sie ohne uns gar nicht da. Ein Freibrief, sie nach Belieben auch wieder zu töten? 
 
 7.) Es ist durchaus ironisch, das Leben-Geben als ein Geschenk zu betrachten, dann aber zu meinen, es sei kein Schaden oder zumindest in Ordnung, es auch wieder zu beenden. {% include pullquote.html quote="Wenn das Leben ein Geschenk ist, dann sollte es doch wohl auch ausgekostet werden können?" %} 
 
