@@ -6,8 +6,10 @@ excerpt: "Im Zentrum dieses Artikels stehen die Ausführungen des frühen Tierre
 
 ---
 
-Der folgende Artikel ist eine überarbeitete Fassung eines Vortrages, der auf der Diskussionsplattform
-des Vereins [selbst-kritisch-vegan](http://selbst-kritisch-vegan.de/) gehalten wurde.
+Der folgende Artikel ist eine stark überarbeitete Fassung eines Vortrages, der auf der Diskussionsplattform des Vereins [selbst-kritisch-vegan](http://selbst-kritisch-vegan.de/) gehalten wurde 
+(alle detaillierten Quellenangaben befinden sich am Ende).
+Die Plattform kann über diesen Link erreicht werden: [https://discord.gg/4ypYN4ekNr](https://discord.gg/4ypYN4ekNr).
+Wer zukünftige Arbeiten wie diesen Artikel fördern will, findet [hier](/about) zudem eine Unterstützungsmöglichkeit.
 
 # Einleitung
 
@@ -17,7 +19,7 @@ einem Schlüsselbegriff der Tierethik geworden ist: Es soll um den Begriff Inter
 gehen.
 
 Um einen Einstieg in das Thema zu finden, schauen wir uns einführend ausgewählte Auszüge aus
-dem Handbuch Tierethik an. Es handelt sich hierbei um das aktuelle deutschsprachige Standardwerk
+dem Handbuch Tierethik \[[^1]\] an. Es handelt sich hierbei um das aktuelle deutschsprachige Standardwerk
 zum Themenkomplex, weswegen es auch erwartungsgemäß ein eigenes Kapitel zum Begriff Interesse
 enthält.
 Dort lesen wir einleitend:
@@ -88,8 +90,6 @@ zugesprochen wird:
 
 ![Interessen-nach-Handbuch-Tierethik](/images/nelson-interessen/407.jpg)
 
-# Peter Singer
-
 Peter Singer dürfte es auch gewesen sein, der den größten Einfluss auf die Karriere des Interessen-
 bzw. Präferenzbegriffs hatte. Er wird als der bedeutsamste Vertreter des Präferenzutilitarismus
 betrachtet. Als wie bedeutsam Singer in dieser Hinsicht wahrgenommen wird, kann man auch einer etwas
@@ -99,13 +99,15 @@ ungerechten Stelle im Handbuch Tierethik entnehmen. Wir lesen dort:
 
 Wir werden später darauf zurückkommen, dass Singer keineswegs der Urheber dieses Prinzips ist,
 aber da er nun einmal so einflussreich war, sollten wir uns Singers Interessenbegriff kurz einmal
-anschauen.
+anschauen. \[[^2]\]
 
 ![Interessen-nach-Handbuch-Tierethik](/images/nelson-interessen/500.jpg)
+  
 ![Interessen-nach-Handbuch-Tierethik](/images/nelson-interessen/501.jpg)
 
 Wir sehen, dass Peter Singer die Empfindungsfähigkeit zur Voraussetzung dafür macht, Lebewesen
-Interessen zuzusprechen. Das Interesse, das für Singer zentral ist, ist das Interesse daran, keineLeiden, keine Schmerzen zu empfinden; die positiven Empfindungen, Freude, Glück, Lust usw.,
+Interessen zuzusprechen. Das Interesse, das für Singer zentral ist, ist das Interesse daran, keine
+Leiden, keine Schmerzen zu empfinden; die positiven Empfindungen, Freude, Glück, Lust usw.,
 werden von Singer im tierethischen Kontext kaum beachtet.
 Vor diesem Hintergrund ist jedoch nicht ersichtlich, warum Peter Singer derartig einflussreich war,
 denn dieser Ansatz war, wie der Ausschnitt klargestellt hat, ja keineswegs neu. Jeremy Bentham
@@ -115,6 +117,7 @@ unterschied.
 Schauen wir uns also einen zweiten kurzen Ausschnitt aus Singers Hauptwerk an:
 
 ![Interessen-nach-Handbuch-Tierethik](/images/nelson-interessen/502.jpg)
+
 ![Interessen-nach-Handbuch-Tierethik](/images/nelson-interessen/503.jpg)
 
 Die Besonderheit der Position Singers besteht darin, dass der Präferenzutilitarismus anders als der
@@ -158,12 +161,13 @@ Gefühlswelt von Lebewesen, also ‚innere Zustände‘ wie Leid, Glück, Angst 
 Zugriff auf innere Zustände ist jedoch mit massiven Unsicherheiten verbunden.
 
 Hervorzuheben ist zu diesem Problemfeld der 1974 erschienene berühmte Essay von Thomas Nagel:
-„Wie ist es, eine Fledermaus zu sein?“. In diesem kurzen Text thematisiert Nagel die Unmöglichkeit,
+„Wie ist es, eine Fledermaus zu sein?“. \[[^3]\] In diesem kurzen Text thematisiert Nagel die Unmöglichkeit,
 jemals wirklich verstehen bzw. eher nachempfinden zu können, wie sich andere Wesen, seien es
 Menschen oder Tiere, fühlen. Als Beispiel dient ihm eine Fledermaus – sicher nicht zuletzt deswegen,
 da sie sich mit ihrer Echoortung so fundamental von uns unterscheidet. Er schrieb:
 
 ![Auszug-Nagel: Wie ist es eine Fledermaus zu sein?](/images/nelson-interessen/504.jpg)
+
 ![Auszug-Nagel: Wie ist es eine Fledermaus zu sein?](/images/nelson-interessen/505.jpg)
 
 Das heißt: Selbst wenn wir über die Erfassung von Gehirnprozessen alles sichtbar machen können,
@@ -197,8 +201,7 @@ Umsetzung sind von einer einzigartigen Folgerichtigkeit und Geradlinigkeit, die 
 
 Nelsons Ziel war es nicht nur, eine Ethik „nach den strengen Maßstäben mathematisch-
 naturwissenschaftlicher Beweisführung“ zu begründen, sondern er strebte auch eine direkte
-praktische Umsetzung an, weswegen er politisch äußerst aktiv war. \[Thomas Meyer ist zitiert nach: Metzler Philosophen-Lexikon, hrsg. von Bernd Lutz, Stuttgart 2015, S.
-502-504.\]
+praktische Umsetzung an, weswegen er politisch äußerst aktiv war. \[[^4]\]
 
 Das Fundament der Ethik Nelsons ist eine radikale Gerechtigkeitsperspektive, die der
 Spezieszugehörigkeit keinerlei Relevanz zumisst, sondern „Interessen“ in den Mittelpunkt der
@@ -219,8 +222,8 @@ daher auf die wenigen Stellen beschränkt, die Nelson zu diesem Thema hinterlass
 Um an dieser Stelle keine Belege schuldig zu bleiben, soll die folgende Analyse mit zwei
 Falschdarstellungen beginnen, um einen Einstieg zu Nelson zu finden.
 
-Das erste Beispiel ist ein Artikel über Nelson von Urs Müller, der auf der Seite Tier im Fokus ch
-erschienen ist.
+Das erste Beispiel ist ein Artikel über Nelson von Urs Müller, der auf der Seite tier-im-fokus.ch
+erschienen ist. \[[^5]\]
 Dort lesen wir:
 
 > „Eine Einschränkung meines Handelns durch die Pflicht tritt erst dort auf, wo ich mit meinem Tun
@@ -237,10 +240,10 @@ Das zweite Beispiel ist [ein Vortrag von Dieter Birnbacher (Schlüsselstelle 21:
 Deutschlands.
 
 Birnbacher behauptet also, dass man bei Nelson selbst einen solchen Gedankengang finden könnte:
-1. Alle Wesen mit Interessen haben einen Anspruch auf Berücksichtigung ihrer Interessen.
-2. Von den außermenschlichen Naturwesen haben nur Tiere Interessen.
-3. Alle Tiere haben Interessen.
-4. Alle Tiere haben – als Subjekte von Interessen – das Recht, nicht getötet zu werden.
+> „1. Alle Wesen mit Interessen haben einen Anspruch auf Berücksichtigung ihrer Interessen.
+> 2. Von den außermenschlichen Naturwesen haben nur Tiere Interessen.
+> 3. Alle Tiere haben Interessen.
+> 4. Alle Tiere haben – als Subjekte von Interessen – das Recht, nicht getötet zu werden.“
 
 Wenn ihr genau hinguckt, seht ihr, dass Punkt 4 keinen Sinn ergibt. Es ist überhaupt nicht klar,
 warum aus dem Haben von Interessen das Recht folgen sollte, nicht getötet zu werden, denn logisch
@@ -258,60 +261,65 @@ Und wenn wir schon den gesamten Haupttext besprechen, den Nelson zum Thema Tiere
 hinterlassen hat, dann ist es vielleicht auch sinnvoll, noch kurz die zwei weiteren relevanten Stellen
 voran- und vorzustellen, denn sie gehören zum Gesamtbild.
 
-Der erste Auszug stammt aus einer Rede Nelsons vor der Kasseler Arbeiterschaft, die 1926 im
+Der erste Auszug \[[^6]\] stammt aus einer Rede Nelsons vor der Kasseler Arbeiterschaft, die 1926 im
 Mitteilungsblatt des Internationalen Sozialistischen Kampf-Bundes erschien. Er verdeutlicht, dass es
 ihm um die politische Einbindung seiner tierethischen Position ging, nicht nur um bloße Theorie:
 
 
 ![Nelson: Recht-und-Staat](/images/nelson-interessen/600.jpg)
-![Nelson: Recht-und-Staat](/images/nelson-interessen/601.jpg)
-\[Band 9, Recht und Staat\]
 
-Der zweite Auszug ist in Nelsons Werk zur philosophischen Rechtslehre und Politik zu finden und
+![Nelson: Recht-und-Staat](/images/nelson-interessen/601.jpg)
+
+Der zweite Auszug ist in Nelsons Werk zur philosophischen Rechtslehre und Politik \[[^7]\] zu finden und
 beschäftigt sich mit der Gesetzgebung für das Vormundschaftsrecht. Er zeigt unter anderem, mit
 welcher Konsequenz Nelson Gerechtigkeits- bzw. Konsistenzüberlegungen in seine Werke einfließen
 ließ:
 
 ![Nelson: Band 6, System der philosophischen Rechtslehre und Politik](/images/nelson-interessen/700.jpg)
+  
 ![Nelson: Band 6, System der philosophischen Rechtslehre und Politik](/images/nelson-interessen/701.jpg)
+
 ![Nelson: Band 6, System der philosophischen Rechtslehre und Politik](/images/nelson-interessen/702.jpg)
-\[Band 6, System der philosophischen Rechtslehre und Politik\]
 
 In diesem Text tauchten zwei für Nelson bedeutsame Begriffe auf, die auch bei Peter Singer eine
 entscheidende Rolle spielen: Person und Interesse. Schauen wir uns zunächst an, was Nelson unter
 diesen Begriffen verstanden wissen wollte.
 
-Der Anfang soll mit der Stelle gemacht werden, die für die Fehldeutung Nelsons primär
+Der Anfang soll mit der Stelle \[[^8]\] gemacht werden, die für die Fehldeutung Nelsons primär
 verantwortlich zu machen ist. Danach schauen wir uns an, warum es eine Fehldeutung ist.
 
 ![Nelson: Band 6, System der philosophischen Rechtslehre und Politik](/images/nelson-interessen/703.jpg)
+
 ![Nelson: Band 6, System der philosophischen Rechtslehre und Politik](/images/nelson-interessen/704.jpg)
 
 Auf den ersten Blick sieht es in der Tat so aus, als würde Nelson die Empfindungsfähigkeit, die
 Empfänglichkeit für Lust und Unlust ins Zentrum seiner Betrachtungen rund um die Begriffe Person
 und Interesse rücken, aber eine genaue Betrachtung offenbart, dass es nicht ganz so einfach sein
 kann: Er schreibt: 
-> „denn darunter \[, also unter Lust und Unlust,\] verstehen wir DIEJENIGEN Interessen“ 
+> „denn darunter \[, also unter Lust und Unlust,\] verstehen wir **diejenigen** Interessen“ 
 
 usw. usf. Diejenigen! Es gibt also noch mehr, was unter den Begriff Interesse fällt. Es gibt
 Anlass, genauer hinzuschauen.
 
-Fahren wir mit den nächsten Auszügen fort. Ihr werdet sehen, dass bereits die erste Stelle die oben
+Fahren wir mit den nächsten Auszügen fort.\[[^8], [^9]\] Ihr werdet sehen, dass bereits die erste Stelle die oben
 vorgestellte Fehldeutung hätte verhindern müssen:
 
 ![Nelson: Ethik](/images/nelson-interessen/705.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/706.jpg)
+  
 ![Nelson: Ethik](/images/nelson-interessen/707.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/708.jpg)
 
-Und nun folgt noch eine Stelle, die aufzeigt, wie eine gründlichere Lektüre die kritisierte
+Und nun folgt noch eine Stelle \[[^8], S. 122\], die aufzeigt, wie eine gründlichere Lektüre die kritisierte
 Fehlinterpretation hätte verhindern müssen:
 
 ![Nelson: Ethik](/images/nelson-interessen/709.jpg)
 
 Fassen wir zusammen, was Nelson schrieb: Im Zentrum seines Interessen-Begriffs steht das
 Vermögen, Dingen einen Wert oder Unwert zu erteilen, und dieses Erteilen zeige sich durch Polarität
-des **Veraltens**. Er möchte im weitesten irgend möglichen Sinne von Interessen sprechen, und er
+des **Verhaltens**. Er möchte im weitesten irgend möglichen Sinne von Interessen sprechen, und er
 stellt unmissverständlich klar, dass es gerade nicht nur um Lust und Unlust, um Empfindungsfähigkeit
 geht. Es geht um die allgemeine Fähigkeit, zu werten, also Dinge oder Situationen zu wollen oder
 nicht zu wollen. Eine Fähigkeit, die sich über die Polarität des **Verhaltens** äußert.
@@ -324,9 +332,10 @@ es bereits bei Insekten oder Schnecken zu beobachten ist, als ausreichender Hinw
 Interessenträgerschaft zu interpretieren wäre.
 
 Doch bevor wir diese Schwerpunktsetzung anhand des Haupttextes untermauern, fehlt uns noch
-eine Klärung des Personenbegriffs Nelsons, auch wenn er schon kurz durchschimmerte.
+eine Klärung des Personenbegriffs Nelsons, auch wenn er schon kurz durchschimmerte \[[^8]\].
 
 ![Nelson: Ethik](/images/nelson-interessen/710.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/711.jpg)
 
 Wir können uns hier also kurzfassen: Jedes Wesen, das Interessen hat, ist eine Person. Der Kontrast
@@ -334,7 +343,7 @@ zu Singer könnte nicht größer sein, und so irritierend es auch klingen mag: W
 beobachtbaren Verhaltens entscheidend ist, dann sind nach Nelson also bereits Insekten Personen.
 
 Interessant ist nun jedoch, dass wir bei Nelson, anders als in vielen anderen Ethiken und auch im
-Unterschied zu Peter Singer, zwei Arten von Personen begegnen.
+Unterschied zu Peter Singer, zwei Arten von Personen begegnen \[[^9]\].
 
 ![Nelson: Ethik](/images/nelson-interessen/712.jpg)
 
@@ -343,7 +352,7 @@ Differenzierung:
 
 Alle Interessenträger haben Rechte, aber nicht alle Interessenträger haben Pflichten. Lebewesen, die
 nicht moralfähig sind, die sich nicht an Abmachungen oder Gesetze halten können, aber Interessen
-haben, sind nach Nelsons Rechtssubjekte, also Träger von Rechten. Zu ihnen gehören insbesondere
+haben, sind nach Nelson Rechtssubjekte, also Träger von Rechten. Zu ihnen gehören insbesondere
 Tiere und Kinder bis zu einem gewissen Alter. Lebewesen, die moralfähig sind, sich an Abmachungen
 oder Gesetze halten können, sind hingegen nicht nur Rechtssubjekte, sondern zusätzlich auch
 Pflichtsubjekte. Sie sind also nicht nur Träger von Rechten, sondern sie sind auch dazu verpflichtet,
@@ -351,7 +360,7 @@ die Interessen bzw. Rechte anderer Wesen zu berücksichtigen. Erwachsene Mensche
 gravierende geistige Behinderung sind demnach Pflichtsubjekte.
 
 Damit sind nun die Grundlagen bereitgestellt und wir können den Text lesen, um den es heute
-hauptsächlich gehen soll.
+hauptsächlich gehen soll. \[[^8]\]
 
 ![Nelson: Ethik](/images/nelson-interessen/713.jpg)
 
@@ -362,6 +371,7 @@ gleich zu behandeln, Ungleiches ungleich. Dort, wo Tiere dieselben Interessen wi
 sind sie also gleich zu behandeln. Es geht um eine radikale, speziesübergreifende Gerechtigkeit.
 
 ![Nelson: Ethik](/images/nelson-interessen/714.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/715.jpg)
 
 Diese Stelle enthält gleich mehrere Formulierungen, die vielleicht erklärungsbedürftig sind.
@@ -396,6 +406,7 @@ hingegen, dass Tiere für sich selbst ethische Berücksichtigung verdienen. Er e
 noch einmal selbst:
 
 ![Nelson: Ethik](/images/nelson-interessen/716.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/717.jpg)
 
 Hier sehen wir, mit welcher Strenge Nelson sich an seine Definition hält.
@@ -414,6 +425,7 @@ unredlicherweise wohl kaum akzeptieren wird, sodass der Doppelstandard entlarvt 
 Fahren wir fort:
 
 ![Nelson: Ethik](/images/nelson-interessen/718.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/719.jpg)
 
 Wir sehen, mit welch eiserner Strenge Nelson seine Überlegung zu Ende führt, aber für uns
@@ -437,6 +449,7 @@ zurückzuführen, der dann bei Tieren jedoch abgelehnt wird.
 Lesen wir Nelsons zweiten Einwand:
 
 ![Nelson: Ethik](/images/nelson-interessen/721.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/722.jpg)
 
 Nelson weist also darauf hin, dass die Sprache nicht nur ein Mittel der aufrichtigen Mitteilung,
@@ -457,6 +470,7 @@ was man von einem denkenden Menschen verlangen könne.
 Weiter im Text:
 
 ![Nelson: Ethik](/images/nelson-interessen/723.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/724.jpg)
 
 Nelson macht uns hier auf seine Weise auf ein Phänomen aufmerksam, dass man auch heute noch
@@ -485,6 +499,7 @@ Nelsons stützen kann. Sie dürfte noch einmal verdeutlichen, warum die bisherig
 Tierethik Nelsons unpräzise und irreführend waren:
 
 ![Nelson: Ethik](/images/nelson-interessen/726.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/727.jpg)
 
 Dass Nelson hier an die beobachtbare Reaktion der Mimose dachte, offenbart, wie sehr es ihm schon
@@ -556,6 +571,7 @@ werden dürfte als die bisherigen Darstellungen seiner Tierethik.
 Weiter im Text:
 
 ![Nelson: Ethik](/images/nelson-interessen/730.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/731.jpg)
 
 Es folgt nun eine Stelle, die verdeutlicht, dass die Tierethik die Interessen von Menschen nicht
@@ -563,6 +579,7 @@ einfach ignorieren darf. Nelson nimmt die Gerechtigkeitsperspektive so konsequen
 diesen Punkt ausdrücklich hervorhebt, denn sowohl Mensch als auch Tier verdienen Gerechtigkeit:
 
 ![Nelson: Ethik](/images/nelson-interessen/732.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/733.jpg)
 
 Es folgt nun ein kurzer Abschnitt, dessen Interpretation hier nicht erfolgen kann. Es sind nur 5 bzw. 6
@@ -571,7 +588,9 @@ warum das menschliche Interesse am Leben keineswegs immer schwerer wiegt als das
 Interesse am Leben:
 
 ![Nelson: Ethik](/images/nelson-interessen/740.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/741.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/742.jpg)
 
 Das war nun also der kurze Haupttext, den Nelson zur Tierethik hinterlassen hat, der seit einigen
@@ -580,10 +599,12 @@ Jahren vermehrt wiederentdeckt wird und Nelson zu den Klassikern der Tierethik m
 Offen blieb allerdings die Frage, wie genau nach Nelson die geforderte Interessen-Abwägung
 funktionieren sollte. Das ist der letzte Punkt, den wir uns nun noch angucken.
 
-Es folgen drei kurze Auszüge, danach die Erklärung:
+Es folgen drei kurze Auszüge, \[[^8], [^9]\] danach die Erklärung:
 
 ![Nelson: Ethik](/images/nelson-interessen/743.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/744.jpg)
+
 ![Nelson: Ethik](/images/nelson-interessen/745.jpg)
 
 Was Nelson sich unter einer Abwägung vorstellt, hängt mit dem Absehen von der numerischen
@@ -609,9 +630,8 @@ Das ist das Gedankenexperiment, das Nelson uns vorschlägt, um Gerechtigkeit zu 
 sollen uns die Interessen anderer als unsere eigenen Vorstellen und dann prüfen, welche Interessen
 für uns als vorzugswürdig erscheinen.
 
-Führt man dieses Gedankenexperiment durch, erhellt sehr schnell, dass wir den Genuss eines Rinder-
-Burgers für weniger wichtig halten würden als es zu vermeiden, die dafür notwendigen Schritte zu
-erdulden.
+Führt man dieses Gedankenexperiment durch, erhellt sehr schnell, dass wir den Genuss eines Rinder-Burgers 
+für weniger wichtig halten würden als es zu vermeiden, die dafür notwendigen Schritte zu erdulden.
 
 Und auf der Basis dieser Interpretation ist nun auch nachzuvollziehen, warum eingangs betont
 wurde, dass das Handbuch Tierethik etwas Fragwürdiges behauptet, wenn es Singer zuschreibt, das
@@ -621,7 +641,7 @@ haben. Wir finden dieses Prinzip schon bei Nelson Jahrzehnte früher sauber ausf
 # Fazit
 
 Mit diesen Worten können wir die Einführung in Nelsons Tierethik und die Betrachtung des
-Interessenbegriffs beenden und nochmal kurz die Ergebnisse zusammenfassen
+Interessenbegriffs beenden und nochmal kurz die Ergebnisse zusammenfassen:
 
 Leonard Nelsons Tierethik setzt beim beobachtbaren Verhalten an, weswegen sie Probleme anderer
 Ansätze, die bei der Frage nach der Empfindungsfähigkeit, bei Lust und Unlust ansetzen, zunächst
@@ -642,3 +662,15 @@ bewussten Lebensinteresse, nach der Anatomie usw. werden durch Nelsons Ansatz je
 automatisch bedeutungslos. Sie werden lediglich aufgrund der Unzuverlässigkeit und den damit
 verbundenen Problemen zu Abwägungshilfen herabgestuft. Sie sind nicht mehr der Startpunkt
 ethischer Betrachtungen, sondern Hilfsmittel, die man in Konfliktfällen heranziehen kann.
+
+# Quellen
+
+[^1]: Johann S. Ach, Interessen, in: Ders. Und Dagmar Borchers, Handbuch Tierethik. Grundlagen – Kontexte – Perspektiven, Stuttgart 2018, S. 41-44.
+[^2]: Peter Singer, Praktische Ethik, Stuttgart 1994.
+[^3]: Thomas Nagel, What is it like to be a bat? / Wie ist es, eine Fledermaus zu sein?, hrsg. von Ulrich Diehl, Stuttgart 2016.
+[^4]: Thomas Meyer, Leonard Nelson, in: Metzler Philosophen-Lexikon, hrsg. von Bernd Lutz, Stuttgart 2015, S. 502-504.
+[^5]: Urs Müller, Leonard Nelson, vergessener Tierrechtler, abzurufen unter: [https://tier-im-fokus.ch/mensch_und_tier/leonard_nelson](https://tier-im-fokus.ch/mensch_und_tier/leonard_nelson)
+[^6]: Leonard Nelson, Gesammelte Werke, hrsh. Von Paul Bernays et al., Hamburg 1972, Band 9.
+[^7]: Leonard Nelson, Gesammelte Werke, hrsh. Von Paul Bernays et al., Hamburg 1976, Band 6.
+[^8]: Leonard Nelson, Gesammelte Werke, hrsh. Von Paul Bernays et al., Hamburg 1970, Band 5.
+[^9]: Leonard Nelson, Gesammelte Werke, hrsh. Von Paul Bernays et al., Hamburg 1972, Band 4.
