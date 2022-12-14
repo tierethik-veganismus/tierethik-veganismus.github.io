@@ -240,10 +240,12 @@ Das zweite Beispiel ist [ein Vortrag von Dieter Birnbacher (Schlüsselstelle 21:
 Deutschlands.
 
 Birnbacher behauptet also, dass man bei Nelson selbst einen solchen Gedankengang finden könnte:
-> „1. Alle Wesen mit Interessen haben einen Anspruch auf Berücksichtigung ihrer Interessen.
+> 1. Alle Wesen mit Interessen haben einen Anspruch auf Berücksichtigung ihrer Interessen.
 > 2. Von den außermenschlichen Naturwesen haben nur Tiere Interessen.
 > 3. Alle Tiere haben Interessen.
-> 4. Alle Tiere haben – als Subjekte von Interessen – das Recht, nicht getötet zu werden.“
+> 4. Alle Tiere haben – als Subjekte von Interessen – das Recht, nicht getötet zu werden.
+> 
+> [Abschrift der gezeigten Folie.]
 
 Wenn ihr genau hinguckt, seht ihr, dass Punkt 4 keinen Sinn ergibt. Es ist überhaupt nicht klar,
 warum aus dem Haben von Interessen das Recht folgen sollte, nicht getötet zu werden, denn logisch
