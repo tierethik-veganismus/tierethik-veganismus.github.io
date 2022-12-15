@@ -23,6 +23,8 @@ Vor dem Hintergrund, dass der Artikel der Süddeutschen zahlreiche Antworten pro
 
 Wer der folgenden Analyse Anregungen entnehmen konnte und die Entstehung solcher umfassenden, zeitintensiven Arbeiten unterstützen will, findet [hier](/about) eine Möglichkeit.
 
+PDF-Version [hier](https://cdn.discordapp.com/attachments/690382715362607145/1052883848356171867/Viraler_Antiveganismus.pdf).
+
 # 2. Grundlagen der Analyse
 Christina Berndt möchte mit ihrem Artikel einen Beitrag zur ethischen Debatte rund um das Thema Fleischverzicht und Veganismus leisten, da sie davon auszugehen scheint, dass wenigstens ein Blickwinkel zu wenig Berücksichtigung fände. Auch wenn sie dieses Ziel nicht explizit ausformuliert hat, ist es ihrem Text und dem dazugehörigen Nachtrag zumindest so klar zu entnehmen, dass man es ihr ohne gewichtige Bedenken zusprechen kann. Wer sich auf Klassiker der Philosophie und auf ethische Beiträge der Gegenwart bezieht, wird sich schwerlich darauf berufen können, dass man es mit dem Anspruch doch nicht so genau zu nehmen habe.
 

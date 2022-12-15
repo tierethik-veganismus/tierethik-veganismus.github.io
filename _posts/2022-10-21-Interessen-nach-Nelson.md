@@ -11,6 +11,8 @@ Der folgende Artikel ist eine stark überarbeitete Fassung eines Vortrages, der 
 Die Plattform kann über diesen Link erreicht werden: [https://discord.gg/4ypYN4ekNr](https://discord.gg/4ypYN4ekNr).
 Wer zukünftige Arbeiten wie diesen Artikel fördern will, findet [hier](/about) zudem eine Unterstützungsmöglichkeit.
 
+PDF-Version [hier](https://cdn.discordapp.com/attachments/690382715362607145/1052874665875480647/Interesse_Nelson.pdf).
+
 # Einleitung
 
 Im Zentrum dieses Artikels stehen die Ausführungen des frühen Tierrechtlers Leonard Nelson und ein
