@@ -14,6 +14,8 @@ Ihr findet mich auch auf [youtube](https://www.youtube.com/c/TierethikundVeganis
 - Aufklärung über typische Irrtümer 
 - Aufklärung über Tierethik & Veganismus
 
+Inhaltsverzeichnis zum Instagram-Account und Veganismus-Definition zum Kopieren [findet ihr hier.](/IG-Verzeichnis)
+
 ## Support
 
 Wer meine Arbeit unterstützen und mir bei den Recherche-Kosten (Bücher etc.) helfen will:  
