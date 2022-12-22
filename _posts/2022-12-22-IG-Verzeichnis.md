@@ -94,7 +94,7 @@ Rechts: dazugehörige Highlights
 **„Mir sind Tiere schlicht egal!“** – Antiveganes 3  
 **Mirella, Kritik an** – Veganfluencer, Zug-Q&A 1  
 **Missionieren, Veganismus als Religion?** – Veganfluencer 4  
-** Muss man Aktivist sein? Aktivismus als ethische Pflicht** - Zug-Q&A 3  
+**Muss man Aktivist sein? Aktivismus als ethische Pflicht** - Zug-Q&A 3  
 
 **Natürlichkeit als Argument, Appeal-to-nature-Fehlschluss**  – Dies und das, Zug-Q&A 2  
 **Nebenprodukte, Nebenerzeugnisse** – Nebenerzeugn., Q&A 2  
@@ -151,7 +151,6 @@ Rechts: dazugehörige Highlights
 **Überzeugungsarbeit /Strategiefragen** – Q&A, Welternährung, Dies und das, Arte-Doku  
 **Unvegane Bananen? Chitosan (siehe auch Nebenerzeugnisse)**  – Q&A 2  
 **Utopia, Kritik an** – Dies und das  
-
 
 **Veganer zwingen Sachen auf, aufzwingen, „Jedem das seine“** – Zug-Q&A 1  
 **VeganNews.de, Kritik an** – Veganfluencer 2  
