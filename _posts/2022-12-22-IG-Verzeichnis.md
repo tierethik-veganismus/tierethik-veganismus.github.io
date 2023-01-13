@@ -29,6 +29,7 @@ Rechts: dazugehörige Highlights
 **B12 über Erde und Co.** – B12  
 **Baby Steps, Reduzieren ist doch auch schon super! Jeder Schritt zählt!** – Zweite Klasse?  
 **Bakterien?** - Zug-Q&A 3  
+**Bananen,  unvegane (Chitosan, siehe auch Nebenerzeugnisse)**  – Q&A 2  
 **Biodiversität und Landwirtschaft** – Landwirtschaft 2  
 **Biologische Missinformationen in der veganen Szene** – Veganfluencer 2,  
 **Buchempfehlungen Tierethik** – Q&A  
@@ -37,6 +38,7 @@ Rechts: dazugehörige Highlights
 
 **Definition Veganismus, warum welche** – Definition  
 **Demeter, Alnatura, Biolandwirtschaft** – Wozu Kritik?, Landwirtschaft, Veganfluencer 2, Landwirtschaft 2  
+**Dieter Birnbacher (Ethiker)** - Dies & das 2  
 **Diskussionskultur, szeneinterne Kritik, Kritikfähigkeit** – Bias, Veganfluencer, Über mich, Dies und das, Doppelstandard  
 **Doku-Rezensionen/-Kritik** – Milked, Zug-Q&A 3, Arte-Doku  
 
@@ -44,24 +46,27 @@ Rechts: dazugehörige Highlights
 **„Ethik ist subjektiv!“** – Dies und das, Zug-Q&A 1  
 **Ethik-Grundlagen** – Tierethik, Tierethik 2, Zug-Q&A 2  
 **Ethische Gleichgültigkeit,  Was ist, wenn Ethik nicht überzeugt?** – Zug-Q&A 2  
+**Ernteopfer, Für Veganer sterben auch Tiere** - Ernteopfer etc.  
 **Ersatzprodukte von Tierausbeutern?** - Zug-Q&A 5  
 **Esoterik und Pseudomedizin in der veganen Szene** – Wozu Kritik?, Wozu Kritik 3, Veganfluencer 2, Veganfluencer 4, Ex-Veganer  
 **Ex-Veganer** – Wozu Kritik 3, Antiveganes, Ex-Veganer  
 
-**Fachleute hinterfragen** – Veganfluencer 2, Omega 3  
+**Fachleute hinterfragen** – Veganfluencer 2, Omega 3, Dies & das 2  
 **Fehlender ethischer Ernst** – Falschinfos  
 **Feigen, sind sie vegan?** – Feigen vegan?  
 **Fischlose Ozeane bis 2048?** – 2048  
 **Flächenverbrauch** – Landwirtschaft, Methan 3, Veganfluencer 4, Zug-Q&A 1, Studienmissbr., Doppelstandard  
+**Friends not food** (Siehe auch Tiere als Opfer zweiter Klasse)- Dies & das 2  
 **„Für Veganer sterben mehr Tiere!“ (Siehe auch Leidfrei und Leidvermeidung)** - Zug-Q&A 4  
 
 **Gary Yourofsky** – Sonstiges  
 **Geschmack als Argument** – Tierethik 2  
 
+**Holocaust-Vergleich** - Q&A 2  
 **Humanethik, Geht es beim Veganismus auch um Menschen?** – Definition  
 **Humanethik, Schlachthausarbeiter, Landwirte** – Humanethik  
 **Humane Schlachtung, humanes Töten** – Zug-Q&A 4  
-**Hundeernährung** – Antiveganes, Haustierernähr.  
+**Hundeernährung** – Antiveganes, Haustierernähr., Veganfluencer 3  
 
 **Insekten, ethisch bewertet, Bienen** - Zug-Q&A 2  
 **Intelligenz, Tierintelligenz ethisch bewertet** – Intelligenz, Dies und  das  
@@ -69,8 +74,9 @@ Rechts: dazugehörige Highlights
 **Jagd** – Jagd  
 
 **Kälber, Trennung von Mutter** – Arte-Doku  
+**Karnismus (Begriff), Kritik an** - Dies & das 2  
 **Kastration, Sterilisation, Zeugungsfähigkeit nehmen** - Zug-Q&A 1  
-**Klima, Fleisch und Veganismus** – Q&A, Kohlenstoffkreislauf, Methan 1-4, Dies und das, Kritik, Studienmissbr.  
+**Klima, Fleisch und Veganismus** – Q&A, Kohlenstoffkreislauf, Methan 1-4, Dies und das, Kritik, Studienmissbr., Veganfluencer 3  
 **Kohlenstoffkreislauf** – Kohlenstoffkreislauf  
 **Kontakt zu Nicht-Veganern, Nicht-Veganer entfreunden usw.?** - Zug-Q&A 3  
 **Kritik am Zeitgeist** – Bias, Veganfluencer, Dies & das 2  
@@ -78,7 +84,7 @@ Rechts: dazugehörige Highlights
 **Kükenschreddern/Kükentöten** – Kükentöten  
 
 **Laborfleisch, In-vitro-Fleisch** - Zug-Q&A 3  
-**Leben retten** – Falschinfos  
+**Leben retten** – Falschinfos, Wozu Kritik 4  
 **Lebenserwartung ‚Nutztiere‘** – Milchkühe  
 **Leder und Co. aus Second Hand?** – Second Hand  
 **Leichen im Keller der veganen Szene** – Wozu Kritik?  
@@ -87,7 +93,7 @@ Rechts: dazugehörige Highlights
 **Lieber viele Reduzierer als wenige Veganer, Jonathan Safran Foer** – Veganfluencer, Zug-Q&A 1  
 
 **Massentierhaltung, Definition von** – Zug-Q&A 2  
-**Melanie Joy, Kritik an** – Arte-Doku  
+**Melanie Joy, Kritik an** – Arte-Doku, Dies & das 2  
 **Menschenfeindlichkeit** – Sonstiges, Dies und das  
 **Mensch-Tier-Unterschied (siehe auch Argument from marginal cases )** – Dies und das  
 **Michael Greger, Kritik an** – Wozu Kritik?, Michael Greger, Michael Greger 2  
@@ -100,7 +106,7 @@ Rechts: dazugehörige Highlights
 **Nebenprodukte, Nebenerzeugnisse** – Nebenerzeugn., Q&A 2  
 **Nicht-intentionale Tötungen (Siehe auch Leidfrei und Leidvermeidung)** - Zug-Q&A 4  
 **„Nicht jeder kann vegan leben!“** – Antiveganes 2  
-**Niko Rittenau, Kritik an** – Milchkühe [nicht namentlich, aber war der Anlass], Methan 2, Landwirtschaft, Statistik, Veganfluencer 2, Veganfluencer 4, Landwirtschaft 2, Definition, Omega 3  
+**Niko Rittenau, Kritik an** – Milchkühe [nicht namentlich, aber war der Anlass], Methan 2, Landwirtschaft, Statistik, Veganfluencer 2, Veganfluencer 3, Veganfluencer 4, Landwirtschaft 2, Definition, Omega 3  
 **Nutztier, zum Begriff** – Dies und das  
 **Nutztiere/Tiere würden aussterben** – Antiveganes  
 **Nutzung versus Ausbeutung, ist jede Tiernutzung verwerflich?, Utilitarismus** – Zug-Q&A 5, Arte-Doku  
@@ -113,9 +119,9 @@ Rechts: dazugehörige Highlights
 **Pflanzen können nicht fliehen, also brauchen sie auch kein Gehirn** – Veganfluencer 2  
 **Pflanzenfresser Mensch? Anatomiedebatten** – Pflanzenfresser, Dies und das, Fleischesser?  
 **Der Planet braucht den Menschen nicht** – Sonstiges  
-**PlantBasedNews, Kritik an** – Studien  
+**PlantBasedNews, Kritik an** – Studien, Veganfluencer 3, B12  
 **‚Plant-based doctors‘/Vegane Doktoren, Kritik an** – Wozu Kritik?  
-**ProVeg, Kritik an** – ProVeg  
+**ProVeg, Kritik an** – ProVeg, Veganfluencer 3  
 **Psychologisieren als No-Go im Diskurs** – Dies und das  
 
 **Rationales Denken, Bias und Co.**  – Bias  
@@ -131,11 +137,12 @@ Rechts: dazugehörige Highlights
 **Sonnentor (Firma), Kritik an** – Veganfluencer 2  
 **Sophia Hoffmann, Kritik an** – Landwirtschaft 2  
 **Speziesismus, Kritik an** – Zug-Q&A 1  
+**Speziesismus, Rassismus, Sexismus** - Q&A 2  
 **Sunday Natural, Kritik an [Achtung: Laut Impressum neuer Besitzer, Kritik nicht einfach auf heute übertragbar!]** – Wozu Kritik?, Wozu Kritik 2, Wozu Kritik 3  
 **Survivorship Bias** – Veganfluencer 2  
 
 **Qualzucht** – Tierschutzgesetz  
-**Quellen prüfen** – Kritisch sein, Veganfluencer 4, Dies & das 2, Studienmissbr., Doppelstandard  
+**Quellen prüfen** – Kritisch sein, Veganfluencer 4, Dies & das 2, Studienmissbr., Doppelstandard, Veganfluencer 3  
 
 **Tiere, Nutztiere, Zootiere kennen es nicht anders** – Q&A 2  
 **Tiere als Opfer zweiter Klasse** – Welternährung, Zweite Klasse?, Veganfluencer 2, vegan = Ethik, Veganfluencer, Dies und das, Zug-Q&A 1  
@@ -144,11 +151,11 @@ Rechts: dazugehörige Highlights
 **Tierhaltung, Haustierhaltung** – Tierethik, Haustiere, Arte-Doku, Q&A 2  
 **Tierschutzgesetz, Details aus** – Tierschutzgesetz  
 **Tierversuche** – Tierversuche  
-**Tötungsfrage in der Tierethik** – Tötungsfrage, Veganfluencer 2, Antiveganes, Leidfrei, Leidvermeidung, Zug-Q&A 1a, Zug-Q&A 4  
+**Tötungsfrage in der Tierethik** – Tötungsfrage, Veganfluencer 2, Antiveganes, Leidfrei, Leidvermeidung, Zug-Q&A 1a, Zug-Q&A 4, Kritik  
 **Tu-quoque-Argument** – Dies und das  
 
 **Über meine Motive, warum ich tue, was ich tue** – Über mich, Landwirtschaft 2, Zug-Q&A 2  
-**Überzeugungsarbeit /Strategiefragen** – Q&A, Welternährung, Dies und das, Arte-Doku  
+**Überzeugungsarbeit /Strategiefragen** – Q&A, Welternährung, Dies und das, Arte-Doku, Wozu Kritik 4, Veganfluencer 3  
 **Unvegane Bananen? Chitosan (siehe auch Nebenerzeugnisse)**  – Q&A 2  
 **Utopia, Kritik an** – Dies und das  
 
@@ -167,11 +174,13 @@ Rechts: dazugehörige Highlights
 **Vegane Welt, Ist eine vegane Welt möglich?** – Welternährung  
 **Vegane Organisationen/ Plattformen, Kritik an** – Studien, Methan 2, ProVeg  
 **Vegan aus Tierliebe?** – Zweite Klasse?  
+**Vegan mit Leo** - Veganfluencer 3  
 
 **Warum vegan?** – Warum vegan  
 **Warum ist der Veganismus so kontrovers?** - Zug-Q&A 1a  
 **Wasserverbrauch, Fleisch und Veganismus** – Wasserverbrauch  
 **Welternährung** – Q&A, Antiveganes 2, Welternährung, Landwirtschaft, Veganfluencer 4, Zug-Q&A 1, Landwirtschaft 2, Studienmissbr.  
+**Weltklimarat/IPCC, Bericht von 2022** – Veganfluencer 3  
 **Wildtierleid, in die Wildnis eingreifen?** - Zug-Q&A 3  
 **Wildtiere retten, die Tierisches brauchen, Omnivorischen/karnivorischen Tieren helfen?** - Zug-Q&A 5  
 **„Wir kennen die langfristen Auswirkungen des Veganismus nicht!“** - Zug-Q&A 3  
