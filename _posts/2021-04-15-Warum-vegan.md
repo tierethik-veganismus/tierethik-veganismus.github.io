@@ -21,7 +21,7 @@ Da die zweite Frage zu verneinen ist, kann ich mich auf die erste Frage beschrä
 
 Die Schlüsselstelle der Definition der Vegan Society lautet (Übersetzung durch mich):
 
-> „[Der Veganismus] ist eine Philosophie und eine Lebensweise, die danach strebt, alle Formen der Ausbeutung von und Grausamkeiten gegenüber Tieren — sei es für die Ernährung, für Kleidung oder für irgendeinen anderen Zweck — so weit wie möglich und praktisch durchführbar zu vermeiden."
+> "[Der Veganismus] ist eine Philosophie und Lebensweise, die danach strebt, alle Formen der Ausbeutung von und Grausamkeiten gegenüber Tieren – soweit es möglich und praktisch durchführbar ist – zu vermeiden, sei es für die Ernährung, für Kleidung oder für irgendeinen anderen Zweck."
  
 Im Zentrum stehen zwei Begriffe:
 
