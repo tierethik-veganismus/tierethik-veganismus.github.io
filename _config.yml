@@ -5,13 +5,13 @@ email: tierethik_veganismus@gmx.de
 author: Tierethik & Veganismus
 avatar: /images/Avatar.png
 description: Aufklärung und Zitate über Tierethik
+
+domain: www.tierethik-veganismus.de
+url: https://www.tierethik-veganismus.de
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.tierethik-veganismus.de/"
-github_username: tierethik-veganismus
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-    dribbble:
     email: tierethik_veganismus@gmx.de
     facebook:
     flickr:
@@ -23,21 +23,13 @@ footer-links:
     twitter:
     stackoverflow:
     youtube: channel/UCNyUQDRIxXp6rtx9eKWbxiA # channel/<your_long_string> or user/<user-name>
-    googleplus: # anything in your profile username that comes after plus.google.com/
-    playconsole:
 
 # Build settings
+theme: minima
 
 # Set the Sass partials directory, as we're using @imports
 sass:
     style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-plugins:
-    - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-    - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-    - jekyll-seo-tag
-    - jekyll-paginate
 
 include: ["_pages"]
 
