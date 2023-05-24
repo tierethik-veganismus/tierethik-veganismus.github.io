@@ -7,7 +7,10 @@ excerpt: "Die Quellen zum youtube-Video \"Veganismus? Eine kritische Einführung
 
 
 
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/DWAO2JiDKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+
 
 * **1:16**
   * PETA Deutschland e.V., Warum vegan? Für die Tiere, die Umwelt und Ihre Gesundheit. Abzurufen unter: [https://www.peta.de/veganleben/warumvegan/](https://www.peta.de/veganleben/warumvegan/)
