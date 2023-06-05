@@ -26,6 +26,8 @@ footer-links:
 
 # Build settings
 theme: minima
+plugins:
+    - jekyll-sitemap
 
 # Set the Sass partials directory, as we're using @imports
 sass:
