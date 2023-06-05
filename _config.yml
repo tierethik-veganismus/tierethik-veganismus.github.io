@@ -29,6 +29,8 @@ theme: minima
 plugins:
     - jekyll-sitemap
 
+permalink: /:title/
+
 # Set the Sass partials directory, as we're using @imports
 sass:
     style: :expanded # You might prefer to minify using :compressed
