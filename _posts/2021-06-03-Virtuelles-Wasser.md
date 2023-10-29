@@ -5,9 +5,10 @@ categories: [Veganer Unfug]
 excerpt: Ist der Wasser“verbrauch“ tierischer Lebensmittel ein gutes Argument für den Veganismus?
 ---
 
-(Anmerkung: Der Folgende Artikel ist eine fast änderungsfreie Kopie (m)einer Instagram-Story, die hier somit auch ohne stilistische Anpassungen erscheint. GROSSSCHREIBUNG ersetzt daher die schönere Kursivschreibung.)
 
 # Ist der Wasser“verbrauch“ tierischer Lebensmittel ein gutes Argument für den Veganismus?
+
+(Anmerkung: Der Folgende Artikel ist eine fast änderungsfreie Kopie (m)einer Instagram-Story, die hier somit auch ohne stilistische Anpassungen erscheint. GROSSSCHREIBUNG ersetzt daher die schönere Kursivschreibung.)
 
 Ich wollte es heute eigentlich allgemein halten, aber die Vorlage, die gerade reinflatterte, ist einfach zu gut, um sie zu ignorieren:
 
