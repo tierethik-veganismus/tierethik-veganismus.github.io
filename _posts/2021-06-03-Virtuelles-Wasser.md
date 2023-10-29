@@ -5,9 +5,12 @@ categories: [Veganer Unfug]
 excerpt: Ist der Wasser“verbrauch“ tierischer Lebensmittel ein gutes Argument für den Veganismus?
 ---
 
-# Einleitung 
+(Anmerkung: Der Folgende Artikel ist eine fast änderungsfreie Kopie (m)einer Instagram-Story, die hier somit auch ohne stilistische Anpassungen erscheint. GROSSSCHREIBUNG ersetzt daher die schönere Kursivschreibung.)
+
+# Ist der Wasser“verbrauch“ tierischer Lebensmittel ein gutes Argument für den Veganismus?
 
 Ich wollte es heute eigentlich allgemein halten, aber die Vorlage, die gerade reinflatterte, ist einfach zu gut, um sie zu ignorieren:
+
 ![15000 Liter Wasser](/images/2020-06-03/p007.jpg) 
 
 Allein der Kommentar dazu verrät, warum diese Zahlen immer wieder unkritisch verbreitet werden: Sie klingen schockierend.
@@ -31,7 +34,7 @@ Nehmen wir an, dass ein Rind 500kg „Schlachtgewicht“ hat. Nehmen wir nun wei
 15.000 x 250 = 3,75 Mio. Liter Wasser
 
 Ein Rind soll 3,75 Mio. Liter Wasser „verbrauchen“. Diese Wassermenge entspricht exakt der Menge Wasser, die in 1,5 olympischen Schwimmbecken ist.
-Kommt euch absurd vor? Ein einzelnes Rind soll so viel Wasser benötigen? Wie soll das bitte möglich sein.
+Kommt euch absurd vor? Ein einzelnes Rind soll so viel Wasser benötigen? Wie soll das bitte möglich sein?
 Irgendetwas stimmt hier also offenkundig nicht.
 
 Die Quelle dieser Behauptung ist in der Regel diese Veröffentlichung:
@@ -54,9 +57,7 @@ Leider werden für grünes, blaues und graues Wasser in der Fachliteratur keine 
 
 ![2.5 Millionen Liter](/images/2020-06-03/z64.png)
 
-„Grünes Wasser“ ist das natürlich vorkommende Boden- und Regenwasser, welches von Pflanzen aufgenommen und verdunstet wird. 
- „Blaues Wasser“ ist Grund­ oder Oberflächenwasser, das zur Herstellung eines Produktes genutzt wird und nicht mehr in ein Gewässer zurückgeführt wird.
- „Graues Wasser“ ist die Wassermenge, die während des Herstellungsprozesses verschmutzt wird.
+> „Grünes Wasser“ ist das natürlich vorkommende Boden- und Regenwasser, welches von Pflanzen aufgenommen und verdunstet wird. Es ist relevant für landwirtschaftliche Produkte. „Blaues Wasser“ ist Grund- oder Oberflächenwasser, das zur Herstellung eines Produktes genutzt wird und nicht mehr in ein Gewässer zurückgeführt wird. In der Landwirtschaft wird es verwendet, wenn Felder künstlich bewässert werden müssen. „Graues Wasser“ beschreibt die Wassermenge, die nötig wäre, um Gewässerverunreinigungen so weit zu verdünnen, dass die Wasserqualität den gesetzlichen oder vereinbarten Anforderungen entspricht.
 
 Wir erinnern uns: Grünes Wasser machte beim Rindfleisch 93,5% des Wassers aus.
 Das heißt: 93,5% des Wertes, mit dem Veganer ständig schocken wollen, sind auf REGENWASSER zurückzuführen, das einfach auf die Weiden und Futtermittelflächen fällt!
@@ -167,5 +168,5 @@ Was macht die vegane Szene? Sie schmeißt mit diesen wertlosen Werten als Schock
 Man möchte im Boden versinken!
 
 Bitte! BITTE!
-Wenn ihr solchen Unfug seht: Widersprecht! Klärt auf! Verlinkt notfalls meine Story. Dieser Mist muss aus der veganen Szene verschwinden. So schnell wie möglich. Auch das ist ein Thema, für das Veganer seit Jahren ausgelacht werden.
+Wenn ihr solchen Unfug seht: Widersprecht! Klärt auf! Verlinkt notfalls meine Story [diesen Beitrag]. Dieser Mist muss aus der veganen Szene verschwinden. So schnell wie möglich. Auch das ist ein Thema, für das Veganer seit Jahren ausgelacht werden.
 Und der sinnlose Beitrag von „mehrvegan“ hat nach 5 Stunden 5600 Likes …
